@@ -57,4 +57,4 @@ Para poder hacer las interacciones y animaciones podrás apoyarte en librerias d
   - Desde la terminal en la carpeta del proyecto:
     - Instalar dependencias:
       - $ npm i
-      - $ npm start
+      - $ npm start# Aluxion
